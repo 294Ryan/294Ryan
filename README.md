@@ -1,4 +1,6 @@
-## Hi there 👋
+## 294Ryan - Coder
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=294Ryan&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=294Ryan&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
 <!--
 **294Ryan/294Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
