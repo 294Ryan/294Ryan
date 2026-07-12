@@ -1,1 +1,56 @@
-## 294Ryan - Coder
+<!--
+  294Ryan GitHub Profile README
+  風格：復古終端機 (Hacker Terminal)
+  說明：GitHub 會過濾 <style>、<script>，因此所有樣式一律用 inline style，
+        且不支援外部字型（@font-face / @import），僅能用系統既有等寬字體。
+-->
+
+<table>
+<tr>
+
+<!-- ============ 左欄：ASCII Art（約 30%）============ -->
+<td width="30%" valign="top">
+
+<pre style="white-space: nowrap; font-family: 'Courier New', Consolas, monospace; line-height: 1.05; font-size: 10px; color: #4AF626;">
+   將你的 ASCII Art 貼在這裡
+   由個人圖片轉換而成，見下方註記
+   ┌──────────────┐
+   │   294Ryan    │
+   │   Coder      │
+   └──────────────┘
+</pre>
+
+</td>
+
+<!-- ============ 右欄：個人資訊 + Stats（約 70%）============ -->
+<td width="70%" valign="top">
+
+<pre style="font-family: 'Courier New', Consolas, monospace; line-height: 1.5; font-size: 13px;">
+<!-- START_STATS -->
+<span style="color:#4AF626;font-weight:bold;">294Ryan - Coder</span>
+<span style="color:#FFFFFF;">• Uptime</span> <span style="color:#444444;">------------------------</span> <span style="color:#00ADB5;">2 years, 4 months, 16 days.</span>
+<span style="color:#FFFFFF;">• IDE</span> <span style="color:#444444;">----------------------------</span> <span style="color:#00ADB5;">VS Code 1.95.0</span>
+<span style="color:#FFFFFF;">• Langs.Programming</span> <span style="color:#444444;">-----------</span> <span style="color:#00ADB5;">Python, Java, C, C++, Go, C#</span>
+<span style="color:#FFFFFF;">• Langs.Real</span> <span style="color:#444444;">------------------</span> <span style="color:#00ADB5;">English, Chinese</span>
+<span style="color:#FFFFFF;">• Interests</span> <span style="color:#444444;">-------------------</span> <span style="color:#00ADB5;">Algorithms, Data Structures, Backend</span>
+<span style="color:#FFFFFF;">• Hobbies</span> <span style="color:#444444;">---------------------</span> <span style="color:#00ADB5;">Coding, Gaming, Volleyball</span>
+
+<span style="color:#4AF626;font-weight:bold;">Contact</span>
+<span style="color:#FFFFFF;">• Email</span> <span style="color:#444444;">-----------------------</span> <span style="color:#00ADB5;">294ryan@gmail.com</span>
+<span style="color:#FFFFFF;">• Discord</span> <span style="color:#444444;">---------------------</span> <span style="color:#00ADB5;">294coder</span>
+
+<span style="color:#4AF626;font-weight:bold;">Github Stats</span>
+<span style="color:#FFFFFF;">• Total Repos</span> <span style="color:#444444;">-----------------</span> <span style="color:#00ADB5;">123</span>
+<span style="color:#FFFFFF;">• Public Repos</span> <span style="color:#444444;">----------------</span> <span style="color:#00ADB5;">100</span>
+<span style="color:#FFFFFF;">• Private Repos</span> <span style="color:#444444;">---------------</span> <span style="color:#00ADB5;">23</span>
+<span style="color:#FFFFFF;">• Stars</span> <span style="color:#444444;">-----------------------</span> <span style="color:#00ADB5;">50</span>
+<span style="color:#FFFFFF;">• Followers</span> <span style="color:#444444;">-------------------</span> <span style="color:#00ADB5;">31</span>
+<span style="color:#FFFFFF;">• Commits</span> <span style="color:#444444;">---------------------</span> <span style="color:#00ADB5;">735</span>
+<!-- END_STATS -->
+</pre>
+
+<i style="color:#888888;font-size:11px;">Last updated automatically by GitHub Actions.</i>
+
+</td>
+</tr>
+</table>
