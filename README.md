@@ -28,24 +28,24 @@
 <pre style="font-family: 'Courier New', Consolas, monospace; line-height: 1.5; font-size: 13px;">
 <!-- START_STATS -->
 <span style="color:#4AF626;font-weight:bold;">294Ryan - Coder</span>
-<span style="color:#FFFFFF;">• Uptime</span> <span style="color:#444444;">------------------------</span> <span style="color:#00ADB5;">2 years, 4 months, 16 days.</span>
-<span style="color:#FFFFFF;">• IDE</span> <span style="color:#444444;">----------------------------</span> <span style="color:#00ADB5;">VS Code 1.95.0</span>
+<span style="color:#FFFFFF;">• Uptime</span> <span style="color:#444444;">-----------------------</span> <span style="color:#00ADB5;">2 years, 4 months, 11 days.</span>
+<span style="color:#FFFFFF;">• IDE</span> <span style="color:#444444;">---------------------------------------</span> <span style="color:#00ADB5;">VS Code 1.95.0</span>
 <span style="color:#FFFFFF;">• Langs.Programming</span> <span style="color:#444444;">-----------</span> <span style="color:#00ADB5;">Python, Java, C, C++, Go, C#</span>
-<span style="color:#FFFFFF;">• Langs.Real</span> <span style="color:#444444;">------------------</span> <span style="color:#00ADB5;">English, Chinese</span>
-<span style="color:#FFFFFF;">• Interests</span> <span style="color:#444444;">-------------------</span> <span style="color:#00ADB5;">Algorithms, Data Structures, Backend</span>
-<span style="color:#FFFFFF;">• Hobbies</span> <span style="color:#444444;">---------------------</span> <span style="color:#00ADB5;">Coding, Gaming, Volleyball</span>
+<span style="color:#FFFFFF;">• Langs.Real</span> <span style="color:#444444;">------------------------------</span> <span style="color:#00ADB5;">English, Chinese</span>
+<span style="color:#FFFFFF;">• Interests</span> <span style="color:#444444;">-----------</span> <span style="color:#00ADB5;">Algorithms, Data Structures, Backend</span>
+<span style="color:#FFFFFF;">• Hobbies</span> <span style="color:#444444;">-----------------------</span> <span style="color:#00ADB5;">Coding, Gaming, Volleyball</span>
 
 <span style="color:#4AF626;font-weight:bold;">Contact</span>
-<span style="color:#FFFFFF;">• Email</span> <span style="color:#444444;">-----------------------</span> <span style="color:#00ADB5;">294ryan@gmail.com</span>
-<span style="color:#FFFFFF;">• Discord</span> <span style="color:#444444;">---------------------</span> <span style="color:#00ADB5;">294coder</span>
+<span style="color:#FFFFFF;">• Email</span> <span style="color:#444444;">----------------------------------</span> <span style="color:#00ADB5;">294ryan@gmail.com</span>
+<span style="color:#FFFFFF;">• Discord</span> <span style="color:#444444;">-----------------------------------------</span> <span style="color:#00ADB5;">294coder</span>
 
 <span style="color:#4AF626;font-weight:bold;">Github Stats</span>
-<span style="color:#FFFFFF;">• Total Repos</span> <span style="color:#444444;">-----------------</span> <span style="color:#00ADB5;">123</span>
-<span style="color:#FFFFFF;">• Public Repos</span> <span style="color:#444444;">----------------</span> <span style="color:#00ADB5;">100</span>
-<span style="color:#FFFFFF;">• Private Repos</span> <span style="color:#444444;">---------------</span> <span style="color:#00ADB5;">23</span>
-<span style="color:#FFFFFF;">• Stars</span> <span style="color:#444444;">-----------------------</span> <span style="color:#00ADB5;">50</span>
-<span style="color:#FFFFFF;">• Followers</span> <span style="color:#444444;">-------------------</span> <span style="color:#00ADB5;">31</span>
-<span style="color:#FFFFFF;">• Commits</span> <span style="color:#444444;">---------------------</span> <span style="color:#00ADB5;">735</span>
+<span style="color:#FFFFFF;">• Total Repos</span> <span style="color:#444444;">-------------------------------------------</span> <span style="color:#00ADB5;">19</span>
+<span style="color:#FFFFFF;">• Public Repos</span> <span style="color:#444444;">-------------------------------------------</span> <span style="color:#00ADB5;">7</span>
+<span style="color:#FFFFFF;">• Private Repos</span> <span style="color:#444444;">-----------------------------------------</span> <span style="color:#00ADB5;">12</span>
+<span style="color:#FFFFFF;">• Stars</span> <span style="color:#444444;">--------------------------------------------------</span> <span style="color:#00ADB5;">3</span>
+<span style="color:#FFFFFF;">• Followers</span> <span style="color:#444444;">----------------------------------------------</span> <span style="color:#00ADB5;">1</span>
+<span style="color:#FFFFFF;">• Commits</span> <span style="color:#444444;">-----------------------------------------------</span> <span style="color:#00ADB5;">76</span>
 <!-- END_STATS -->
 </pre>
 
