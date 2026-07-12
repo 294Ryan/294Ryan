@@ -45,8 +45,8 @@
 <!-- START_STATS -->
 <b>294Ryan - Coder</b>
 <b>• Uptime</b> ----------------------- 1 years, 0 months, 11 days.
-<b>• IDE</b> --------------------------------------- VS Code 1.128.0
-<b>• Langs.Programming</b> ----------- Python, Java, C, C++
+<b>• IDE</b> -------------------------------------- VS Code 1.128.0
+<b>• Langs.Programming</b> ------------------- Python, C++, C, Java
 <b>• Langs.Real</b> ------------------------------ English, Chinese
 <b>• Interests</b> ----------- Algorithms, Data Structures, Backend
 <b>• Hobbies</b> ----------------------- Coding, Gaming, Volleyball
@@ -61,7 +61,7 @@
 <b>• Private Repos</b> ----------------------------------------- 12
 <b>• Stars</b> -------------------------------------------------- 3
 <b>• Followers</b> ---------------------------------------------- 1
-<b>• Commits</b> ----------------------------------------------- 77
+<b>• Commits</b> ---------------------------------------------- 227
 <!-- END_STATS -->
 </pre>
 
