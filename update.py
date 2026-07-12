@@ -166,8 +166,8 @@ def build_stats_block() -> str:
     lines = [
         title_line("294Ryan - Coder"),
         render_line("Uptime", uptime),
-        render_line("IDE", "VS Code 1.95.0"),
-        render_line("Langs.Programming", "Python, Java, C, C++, Go, C#"),
+        render_line("IDE", "VS Code 1.128.0"),
+        render_line("Langs.Programming", "Python, C++, C, Java"),
         render_line("Langs.Real", "English, Chinese"),
         render_line("Interests", "Algorithms, Data Structures, Backend"),
         render_line("Hobbies", "Coding, Gaming, Volleyball"),
