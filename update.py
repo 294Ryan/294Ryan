@@ -26,7 +26,7 @@ README_PATH = "README.md"
 START_MARK = "<!-- START_STATS -->"
 END_MARK = "<!-- END_STATS -->"
 
-START_CODING_DATE = date(2024, 3, 1)  # 你的寫程式起算日
+START_CODING_DATE = date(2025, 7, 1)  # 你的寫程式起算日
 
 # 顏色需與 README.md 中的 span 一致
 COLOR_TITLE = "#4AF626"
