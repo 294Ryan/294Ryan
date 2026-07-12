@@ -29,8 +29,8 @@
 <!-- START_STATS -->
 <span style="color:#4AF626;font-weight:bold;">294Ryan - Coder</span>
 <span style="color:#FFFFFF;">• Uptime</span> <span style="color:#444444;">-----------------------</span> <span style="color:#00ADB5;">1 years, 0 months, 11 days.</span>
-<span style="color:#FFFFFF;">• IDE</span> <span style="color:#444444;">---------------------------------------</span> <span style="color:#00ADB5;">VS Code 1.95.0</span>
-<span style="color:#FFFFFF;">• Langs.Programming</span> <span style="color:#444444;">-----------</span> <span style="color:#00ADB5;">Python, Java, C, C++, Go, C#</span>
+<span style="color:#FFFFFF;">• IDE</span> <span style="color:#444444;">--------------------------------------</span> <span style="color:#00ADB5;">VS Code 1.128.0</span>
+<span style="color:#FFFFFF;">• Langs.Programming</span> <span style="color:#444444;">-------------------</span> <span style="color:#00ADB5;">Python, Java, C, C++</span>
 <span style="color:#FFFFFF;">• Langs.Real</span> <span style="color:#444444;">------------------------------</span> <span style="color:#00ADB5;">English, Chinese</span>
 <span style="color:#FFFFFF;">• Interests</span> <span style="color:#444444;">-----------</span> <span style="color:#00ADB5;">Algorithms, Data Structures, Backend</span>
 <span style="color:#FFFFFF;">• Hobbies</span> <span style="color:#444444;">-----------------------</span> <span style="color:#00ADB5;">Coding, Gaming, Volleyball</span>
