@@ -65,8 +65,7 @@
 <!-- END_STATS -->
 </pre>
 
-<i style="color:#888888;font-size:11px;">Last updated automatically by GitHub Actions.</i>
-
+<!--<i style="color:#888888;font-size:11px;">Last updated automatically by GitHub Actions.</i>--->
 </td>
 </tr>
 </table>
