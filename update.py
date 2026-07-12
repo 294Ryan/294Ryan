@@ -3,7 +3,7 @@ update.py
 ------------------------------------------------------------------
 用途：抓取 GitHub 統計數據，計算 Uptime，並更新 README.md 中
       <!-- START_STATS --> ~ <!-- END_STATS --> 之間的內容，
-      同時保留顏色 span 標籤並維持虛線對齊。
+      並維持虛線對齊；標題與標籤以 <b> 粗體呈現層次。
 
 環境變數：
   GH_TOKEN   - 具備 repo, read:user 權限的 Personal Access Token
@@ -27,12 +27,6 @@ START_MARK = "<!-- START_STATS -->"
 END_MARK = "<!-- END_STATS -->"
 
 START_CODING_DATE = date(2025, 7, 1)  # 你的寫程式起算日
-
-# 顏色需與 README.md 中的 span 一致
-COLOR_TITLE = "#4AF626"
-COLOR_LABEL = "#FFFFFF"
-COLOR_DASH = "#444444"
-COLOR_VALUE = "#00ADB5"
 
 LINE_WIDTH = 60  # 純文字視覺寬度（不含 HTML tag）
 
@@ -60,21 +54,17 @@ def calc_uptime(start: date) -> str:
 
 def render_line(label: str, value: str, width: int = LINE_WIDTH) -> str:
     """
-    產生單行：標籤 + 虛線 + 數值，並包裹顏色 span。
+    產生單行：粗體標籤 + 虛線 + 數值，維持終端機對齊感。
     虛線長度依「純文字長度」計算，HTML tag 不列入寬度。
     """
     prefix = f"\u2022 {label}"  # • 符號
     dash_len = max(width - len(prefix) - len(value) - 2, 3)
     dashes = "-" * dash_len
-    return (
-        f'<span style="color:{COLOR_LABEL};">{prefix}</span> '
-        f'<span style="color:{COLOR_DASH};">{dashes}</span> '
-        f'<span style="color:{COLOR_VALUE};">{value}</span>'
-    )
+    return f"<b>{prefix}</b> {dashes} {value}"
 
 
 def title_line(text: str) -> str:
-    return f'<span style="color:{COLOR_TITLE};font-weight:bold;">{text}</span>'
+    return f"<b>{text}</b>"
 
 
 # ------------------------- 資料抓取 -------------------------

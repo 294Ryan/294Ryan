@@ -1,8 +1,8 @@
 <!--
   294Ryan GitHub Profile README
   風格：復古終端機 (Hacker Terminal)
-  說明：GitHub 會過濾 <style>、<script>，因此所有樣式一律用 inline style，
-        且不支援外部字型（@font-face / @import），僅能用系統既有等寬字體。
+  說明：GitHub 會過濾行內樣式（style 屬性），因此不使用顏色控制，
+        改以 <b> 粗體標籤區分標題、子標題與內文的層次。
 -->
 
 <table>
@@ -11,7 +11,7 @@
 <!-- ============ 左欄：ASCII Art（約 30%）============ -->
 <td width="30%" valign="top">
 
-<pre style="white-space: nowrap; font-family: 'Courier New', Consolas, monospace; line-height: 1.05; font-size: 10px; color: #4AF626;">
+<pre style="white-space: nowrap; font-family: 'Courier New', Consolas, monospace; line-height: 1.05; font-size: 10px;">
 ........................................
 ........................................
 ........................................
@@ -43,29 +43,29 @@
 
 <pre style="font-family: 'Courier New', Consolas, monospace; line-height: 1.5; font-size: 13px;">
 <!-- START_STATS -->
-<span style="color:#4AF626;font-weight:bold;">294Ryan - Coder</span>
-<span style="color:#FFFFFF;">• Uptime</span> <span style="color:#444444;">-----------------------</span> <span style="color:#00ADB5;">1 years, 0 months, 11 days.</span>
-<span style="color:#FFFFFF;">• IDE</span> <span style="color:#444444;">--------------------------------------</span> <span style="color:#00ADB5;">VS Code 1.128.0</span>
-<span style="color:#FFFFFF;">• Langs.Programming</span> <span style="color:#444444;">-------------------</span> <span style="color:#00ADB5;">Python, Java, C, C++</span>
-<span style="color:#FFFFFF;">• Langs.Real</span> <span style="color:#444444;">------------------------------</span> <span style="color:#00ADB5;">English, Chinese</span>
-<span style="color:#FFFFFF;">• Interests</span> <span style="color:#444444;">-----------</span> <span style="color:#00ADB5;">Algorithms, Data Structures, Backend</span>
-<span style="color:#FFFFFF;">• Hobbies</span> <span style="color:#444444;">-----------------------</span> <span style="color:#00ADB5;">Coding, Gaming, Volleyball</span>
+<b>294Ryan - Coder</b>
+<b>• Uptime</b> ----------------------- 1 years, 0 months, 11 days.
+<b>• IDE</b> --------------------------------------- VS Code 1.128.0
+<b>• Langs.Programming</b> ----------- Python, Java, C, C++
+<b>• Langs.Real</b> ------------------------------ English, Chinese
+<b>• Interests</b> ----------- Algorithms, Data Structures, Backend
+<b>• Hobbies</b> ----------------------- Coding, Gaming, Volleyball
 
-<span style="color:#4AF626;font-weight:bold;">Contact</span>
-<span style="color:#FFFFFF;">• Email</span> <span style="color:#444444;">----------------------------------</span> <span style="color:#00ADB5;">294ryan@gmail.com</span>
-<span style="color:#FFFFFF;">• Discord</span> <span style="color:#444444;">-----------------------------------------</span> <span style="color:#00ADB5;">294coder</span>
+<b>Contact</b>
+<b>• Email</b> ---------------------------------- 294ryan@gmail.com
+<b>• Discord</b> ----------------------------------------- 294coder
 
-<span style="color:#4AF626;font-weight:bold;">Github Stats</span>
-<span style="color:#FFFFFF;">• Total Repos</span> <span style="color:#444444;">-------------------------------------------</span> <span style="color:#00ADB5;">19</span>
-<span style="color:#FFFFFF;">• Public Repos</span> <span style="color:#444444;">-------------------------------------------</span> <span style="color:#00ADB5;">7</span>
-<span style="color:#FFFFFF;">• Private Repos</span> <span style="color:#444444;">-----------------------------------------</span> <span style="color:#00ADB5;">12</span>
-<span style="color:#FFFFFF;">• Stars</span> <span style="color:#444444;">--------------------------------------------------</span> <span style="color:#00ADB5;">3</span>
-<span style="color:#FFFFFF;">• Followers</span> <span style="color:#444444;">----------------------------------------------</span> <span style="color:#00ADB5;">1</span>
-<span style="color:#FFFFFF;">• Commits</span> <span style="color:#444444;">-----------------------------------------------</span> <span style="color:#00ADB5;">77</span>
+<b>Github Stats</b>
+<b>• Total Repos</b> ------------------------------------------- 19
+<b>• Public Repos</b> ------------------------------------------- 7
+<b>• Private Repos</b> ----------------------------------------- 12
+<b>• Stars</b> -------------------------------------------------- 3
+<b>• Followers</b> ---------------------------------------------- 1
+<b>• Commits</b> ----------------------------------------------- 77
 <!-- END_STATS -->
 </pre>
 
-<!--<i style="color:#888888;font-size:11px;">Last updated automatically by GitHub Actions.</i>--->
+<!--<i>Last updated automatically by GitHub Actions.</i>-->
 </td>
 </tr>
 </table>
