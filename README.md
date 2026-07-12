@@ -13,7 +13,7 @@
 
 <pre style="white-space: nowrap; font-family: 'Courier New', Consolas, monospace; line-height: 1.05; font-size: 10px; color: #4AF626;">
    將你的 ASCII Art 貼在這裡
-   由個人圖片轉換而成，見下方註記
+   （由個人圖片轉換而成，見下方註記）
    ┌──────────────┐
    │   294Ryan    │
    │   Coder      │
