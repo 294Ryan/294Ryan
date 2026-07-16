@@ -5,3 +5,5 @@
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=294Ryan&custom_title=Coding%20Stats&langs_count=5&display_format=percent&theme=github_dark)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=294Ryan&custom_title=Coding%20Stats&langs_count=5&theme=github_dark)](https://wakatime.com/@294Ryan)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=294Ryan&layout=compact&custom_title=Coding%20Stats&langs_count=6&theme=github_dark)](https://wakatime.com/@294Ryan)
