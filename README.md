@@ -44,7 +44,7 @@
 <pre style="font-family: 'Courier New', Consolas, monospace; line-height: 1.5; font-size: 13px;">
 <!-- START_STATS -->
 <b>294Ryan - Coder</b>
-<b>• Uptime</b> ----------------------- 1 years, 0 months, 30 days.
+<b>• Uptime</b> ------------------------ 1 years, 1 months, 0 days.
 <b>• IDE</b> -------------------------------------- VS Code 1.128.0
 <b>• Langs.Programming</b> ------------------- Python, C++, C, Java
 <b>• Langs.Real</b> ------------------------------ English, Chinese
@@ -59,7 +59,7 @@
 <b>• Total Repos</b> ------------------------------------------- 20
 <b>• Public Repos</b> ------------------------------------------- 9
 <b>• Private Repos</b> ----------------------------------------- 11
-<b>• Stars</b> -------------------------------------------------- 4
+<b>• Stars</b> -------------------------------------------------- 5
 <b>• Followers</b> ---------------------------------------------- 3
 <b>• Commits</b> ---------------------------------------------- 279
 <!-- END_STATS -->
